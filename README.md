@@ -7,6 +7,10 @@ This project visualizes Indian Agriculture data using TypeScript, React, Mantine
 - Table showing yearly crop production extremes
 - Bar chart displaying average crop yields (1950-2020)
 
+## Screenshots
+
+![Screenshot](./src/img/ss1.png)
+
 ## Tech Stack
 
 - TypeScript
@@ -47,10 +51,6 @@ src/
 │   └── dataProcessing.ts # Data transformation utilities
 └── App.tsx              # Main application component
 ```
-
-## Screenshots
-
-[Screenshots will be added after deployment]
 
 ## Notes
 
